@@ -2,7 +2,7 @@
 Analysis and visualisation of the HYG database of stars in Jupyter
 
 ## Context
-In the summer of 2025 I began my journey into data analysis with Python and Jupyter Labs, and this project was my first analysis of a large dataset. The code is messy and poorly documented. but for me it represents the joy of discovery and a great learning experience. I gained a basic understanding of the distribution stars that I've enjoyed since. 
+In the summer of 2025 I began my journey into data analysis with Python and Jupyter Labs, and this project was my first analysis of a large dataset. The code is messy and poorly documented, but for me it represents the joy of discovery and a great learning experience. I gained a basic understanding of the distribution stars that I've enjoyed since. 
 
 ## Contents
 #### HYG Analysis
