@@ -10,13 +10,13 @@ In the summer of 2025 I began my journey into data analysis with Python and Jupy
   - The Dataset
     - Imports
     - Basic cleaning of incomplete records and filtering of the dataset
-    - Graph 1 - Visable Stars of the HYG Database - artistic overview of star distribution in a polar graph
+    - Graph 1 - Visible Stars of the HYG Database - artistic overview of star distribution in a polar graph
     - Graph 2 - The Path of the Sun Through the Solar System - artistic representation of the constellations as squares, highlighting the suns path
     - Graph 3 - The Effect of Distance on Visability - Identified the Malmquist bias 
   - Question 1
-    - Graph 4 - The Number of Visable Stars per Hour of Right Ascension
-    - Graph 5 - The Number of Visable Stars per Hour of Right Ascension - polar representation 
+    - Graph 4 - The Number of Visible Stars per Hour of Right Ascension
+    - Graph 5 - The Number of Visible Stars per Hour of Right Ascension - polar representation 
   - Question 2
-    - Graph 6 - The Number of Visable Stars by Right Ascension and Declination
+    - Graph 6 - The Number of Visible Stars by Right Ascension and Declination
   - Question 3
   - Conclusions
